@@ -43,6 +43,9 @@ KNN
 ## Summary
 Based on the results we determined that the RandomForest and KNN models performed extremely well. We recognize the nature of our dataset and hypothesize that these perfect results may result from alterations done to the dataset previously to train a different model. 
 
+## Input Data
+To determine if our model was capable of predicting real data, we inserted artificial data and set the values high to get a result of high level of cancer. The model successfully predicted the outcome. 
+
 
 
 
