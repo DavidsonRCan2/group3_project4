@@ -26,7 +26,22 @@ development.
 - We conducted principle component analysis to obtain the most relavent symptoms and factors that contribute to lung cancer risk. We then ran a logistic regression model with the 6 principle components that were produced by the PCA.
 ![image](https://github.com/DavidsonRCan2/group3_project4/assets/119651909/c5d1e560-f2a8-4273-9a45-9a99f6d8f61c)
 - We ran the same components through a RandomForest model
+
 ![image](https://github.com/DavidsonRCan2/group3_project4/assets/119651909/a7737720-ac73-4e0c-a7ff-327b79e69b39)
+
+## Supervised Learning 
+- We then ran the full dataset through 
+Logistic Regression
+![image](https://github.com/DavidsonRCan2/group3_project4/assets/119651909/a3147994-9888-4778-a725-f5461ae06735)
+
+RandomForest
+![image](https://github.com/DavidsonRCan2/group3_project4/assets/119651909/96169880-13d8-4992-b5ec-3632c035242c)
+
+KNN
+![image](https://github.com/DavidsonRCan2/group3_project4/assets/119651909/1f3a1715-dac2-444c-8eee-b8f90beef36f)
+
+## Summary
+Based on the results we determined that the RandomForest and KNN models performed extremely well. We recognize the nature of our dataset and hypothesize that these perfect results may result from alterations done to the dataset previously to train a different model. 
 
 
 
