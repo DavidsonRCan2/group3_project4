@@ -20,7 +20,9 @@ development.
 ## Data Cleaning
 - Changed Low, Medium, and High classification level to 1, 2, 3
 - Ran .corrwith() to look for correlations between symptoms and classification level
--- Excluded symptoms with <30% correlation, accounted for 6 out of 23 symptoms and environmental exposures.
+- Excluded symptoms with <30% correlation, accounted for 6 out of 23 symptoms and environmental exposures
+
+## 
 
 
 
