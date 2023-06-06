@@ -15,5 +15,17 @@ development.
 
 ## Tableau
 ![image](https://github.com/DavidsonRCan2/group3_project4/assets/119651909/1c96f1f1-c5b3-41a6-a712-dcc6875eb429)
+![image](https://github.com/DavidsonRCan2/group3_project4/assets/119651909/efe37e62-3596-4324-9095-27354c92546a)
+
+## Data Cleaning
+# Changed Low, Medium, and High classification level to 1, 2, 3
+# Ran .corrwith() to look for correlations between symptoms and classification level
+# Excluded symptoms with <30% correlation, accounted for 6 out of 23 symptoms and environmental exposures.
+
+
+
+
+
+
 
 
