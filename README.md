@@ -22,7 +22,12 @@ development.
 - Ran .corrwith() to look for correlations between symptoms and classification level
 - Excluded symptoms with <30% correlation, accounted for 6 out of 23 symptoms and environmental exposures
 
-## 
+## Unsupervised Machine Learning 
+- We conducted principle component analysis to obtain the most relavent symptoms and factors that contribute to lung cancer risk. We then ran a logistic regression model with the 6 principle components that were produced by the PCA.
+![image](https://github.com/DavidsonRCan2/group3_project4/assets/119651909/c5d1e560-f2a8-4273-9a45-9a99f6d8f61c)
+- We ran the same components through a RandomForest model
+![image](https://github.com/DavidsonRCan2/group3_project4/assets/119651909/a7737720-ac73-4e0c-a7ff-327b79e69b39)
+
 
 
 
